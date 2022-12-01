@@ -1,6 +1,6 @@
-#title
+#Create README File
   ## Description 
-  this is bsbsb
+  This application helps create a README file.
   ## Table of Contents
   - [Installation](#Installation)
   - [Usage](#Usage)
@@ -9,17 +9,17 @@
   - [Test](#Test) 
   - [Questions](#Questions) 
   ## Installation
-  sbbs
+  N/A
   ## Usage
-  sbsbssb
+  This application uses the terminal to create the file. You can type the appropriate answer to each promt on the terminal.
   ## License
-  ISC
+  MIT
   ## Contributions
   undefined
   ## Test
-  fhhffhf
+  Open terminal and start by [node index.js] Then answer questions accordingly.
   ## Questions
-  Reach out to this dmail for questions:fjf@hshf
-  Github repository: [fjffh](https://github.com/fjffh/).
+  Reach out to this email for questions:hayni100@gmail.com
+  Github repository: [hayni100](https://github.com/hayni100/).
 
 
