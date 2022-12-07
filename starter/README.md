@@ -1,6 +1,6 @@
 #Create README File
   ## Description 
-  This application helps create a README file.
+  This application helps create a README file. This is also a sample read me that I create using my application.
   ## Table of Contents
   - [Installation](#Installation)
   - [Usage](#Usage)
@@ -11,7 +11,7 @@
   ## Installation
   N/A
   ## Usage
-  This application uses the terminal to create the file. You can type the appropriate answer to each promt on the terminal.
+  This application uses the terminal to create the file. Once you start the appliocation by running node index.js on your terminal, it will start promting questions necessary in creating ReadMe file. 
   ## License
   MIT
   ## Contributions
